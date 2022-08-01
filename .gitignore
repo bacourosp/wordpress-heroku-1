@@ -13,7 +13,7 @@ web/wp
 web/.htaccess
 
 # Dotenv
-.env
+#.env
 
 # Composer
 /vendor
